@@ -1,1 +1,1 @@
-worker: python3 C:\Users\Gia\OneDrive\Documents\Discord Bot\mentorreinaroulettebot.py
+worker: python3 ./Discord Bot/mentorreinaroulettebot.py
